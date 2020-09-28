@@ -1,0 +1,4 @@
+1.Go to https://remix.ethereum.org/
+2.Add new file, name it anything.
+3.Compile contract
+4.Deploy on any network.. kovan, ropstenm, main etc. (select Injected Web3 for environment)
