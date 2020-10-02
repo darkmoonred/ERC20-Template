@@ -2,3 +2,5 @@
 2.Add new file, name it anything.
 3.Compile contract
 4.Deploy on any network.. kovan, ropsten, main etc. (select Injected Web3 for environment)
+
+V2 updated with imported openzeppelin interface from github, example of a mintable token with most up to date version of solidity (0.6.12).
